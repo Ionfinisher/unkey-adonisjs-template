@@ -10,6 +10,7 @@ This a starter AdonisJS application which implements API key verification with U
 
 - Public endpoint accessible without authenticationn
 - Protected endpoint only accessible with a valid API key
+- Verification middleware to check API key validity on protected route
 
 ## Quickstart
 
